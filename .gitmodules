@@ -1,0 +1,3 @@
+[submodule "sub-project2"]
+	path = sub-project2
+	url = git@github.com:mrr0-bef/sub-project2.git
